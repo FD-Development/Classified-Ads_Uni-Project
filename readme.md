@@ -1,8 +1,9 @@
-# Symfony project
+# Classified Ads Web-app project
 
 > Simple Symfony Project using Controller-Service-Repository model.
+> Made for an university course using Symfony.
 
-Created by Filip Duber.
+_**Created by Filip Duber**_
 
 
 ## What is inside?
